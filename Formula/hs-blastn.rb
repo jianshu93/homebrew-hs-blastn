@@ -5,7 +5,7 @@ class HsBlastn < Formula
   desc "a fast and accurate nucleotide-nucleotide sequences aligner"
   homepage "https://github.com/jianshu93/HS-BLASTN"
   url "https://github.com/jianshu93/HS-BLASTN/releases/download/v2.0.0/hs-blastn_Darwin_universal_v2.0.0.tar.gz"
-  sha256 "98fa3495e2f45f7bb9a3a4b8a9edb8781be0bf732305f2aeff4fe3ea4248f153"
+  sha256 "df61d72ab5032556c2a4fcfab271d8051f039e9b4af06234b016d8bdb879b666"
   version "2.0.0"
 
   def install
